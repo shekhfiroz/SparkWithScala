@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry including="**/*.java" kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/firoz/Music/sws/jars/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="/home/firoz/Music/sws/jars/commons-io-2.1.jar"/>
+	<classpathentry kind="lib" path="/home/firoz/Music/sws/jars/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="/home/firoz/Music/sws/jars/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="/home/firoz/Music/sws/jars/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="/home/firoz/Music/sws/jars/scala-xml_2.11-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/home/firoz/Music/sws/jars/scala-reflect-2.11.7.jar"/>
+	<classpathentry kind="lib" path="/home/firoz/Music/sws/jars/scala-parser-combinators_2.11-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/home/firoz/Music/sws/jars/scalap-2.11.0.jar"/>
+	<classpathentry kind="lib" path="/home/firoz/Music/sws/jars/scala-library-2.11.8.jar"/>
+	<classpathentry kind="lib" path="/home/firoz/Music/sws/jars/scala-compiler-2.11.0.jar"/>
+	<classpathentry kind="lib" path="/home/firoz/Music/sws/jars/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/firoz/Music/sws/jars/zookeeper-3.4.5.jar"/>
+	<classpathentry kind="lib" path="/home/firoz/Music/sws/jars/spark-sql_2.11-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/firoz/Music/sws/jars/spark-core_2.11-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/firoz/Music/sws/jars/hadoop-yarn-server-common-2.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/firoz/Music/sws/jars/hadoop-yarn-common-2.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/firoz/Music/sws/jars/hadoop-yarn-client-2.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/firoz/Music/sws/jars/hadoop-yarn-api-2.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/firoz/Music/sws/jars/hadoop-mapreduce-client-shuffle-2.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/firoz/Music/sws/jars/hadoop-mapreduce-client-jobclient-2.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/firoz/Music/sws/jars/hadoop-mapreduce-client-core-2.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/firoz/Music/sws/jars/hadoop-mapreduce-client-common-2.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/firoz/Music/sws/jars/hadoop-mapreduce-client-app-2.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/firoz/Music/sws/jars/hadoop-hdfs-2.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/firoz/Music/sws/jars/hadoop-common-2.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/firoz/Music/sws/jars/hadoop-client-2.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/firoz/Music/sws/jars/hadoop-auth-2.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/firoz/Music/sws/jars/hadoop-annotations-2.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/firoz/Music/sws/jars/avro-mapred-1.7.7-hadoop2.jar"/>
+	<classpathentry kind="lib" path="/home/firoz/Music/sws/jars/avro-1.7.7.jar"/>
+	<classpathentry kind="lib" path="/home/firoz/Music/sws/jars/spark-tags_2.11-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/firoz/Music/sws/jars/spark-network-shuffle_2.11-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/firoz/Music/sws/jars/spark-network-common_2.11-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/firoz/Music/sws/jars/spark-launcher_2.11-2.1.1.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
